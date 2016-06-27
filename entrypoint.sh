@@ -23,5 +23,5 @@ esac
 
 exit 1
 
-    Status API Training Shop Blog About 
+    
 
