@@ -39,7 +39,7 @@ case "$1" in
         exec "$@"
 esac
 
-exit 1
+
 
     
 
